@@ -1,3 +1,4 @@
+# Egitim kodlari Mehmet tarafindan optimize edildi
 # Önce gerekli kütüphaneleri A100 makinesine kuralım
 !pip install ultralytics kagglehub
 
